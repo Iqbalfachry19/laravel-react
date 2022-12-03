@@ -5,6 +5,7 @@
 /public/storage
 /storage/*.key
 /vendor
+ssr.jsx
 .env
 .env.backup
 .env.production
